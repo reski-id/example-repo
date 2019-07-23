@@ -4,3 +4,5 @@ Create 2 Branch
 *newDev
 add another Branch
 *magang
+
+i change something on master
