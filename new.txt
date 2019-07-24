@@ -1,2 +1,2 @@
-ini adaah contooh branch
-try push
+ini adalah file kedua yang dibuat untuk mencobakan git
+saya mencoba menggunakan git push dan git pull
